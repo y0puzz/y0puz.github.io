@@ -1,4 +1,4 @@
-name: build Gmeek
+name: built by y0puz
 
 on:
   workflow_dispatch:
