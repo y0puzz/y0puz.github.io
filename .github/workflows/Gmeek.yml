@@ -1,5 +1,4 @@
-name: built by y0puz
-
+name: Fuck BuildING
 on:
   workflow_dispatch:
   issues:
